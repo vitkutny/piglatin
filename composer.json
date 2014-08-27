@@ -1,0 +1,8 @@
+{
+    "name": "vitkutny/piglatin",
+    "autoload": {
+        "psr-4": {
+            "VitKutny\\": "src/"
+        }
+    }
+}
